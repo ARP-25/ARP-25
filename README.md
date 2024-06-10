@@ -5,7 +5,7 @@ I'm a passionate full stack software developer based in Germany. My journey into
 
 ## 🌟 Interests
 - **Full Stack Web Development**: Specializing in React, Next.js, and Django.
-- **Quantitative Trading**: Currently researching and automating trading strategies.
+- **Quantitative Trading**: Currently researching, building and automating trading strategies.
 
 ## 🌱 Current Learning
 My main focus is to become highly proficient with Next.js due to its numerous benefits, including server-side rendering (SSR) for improved performance, static site generation (SSG) for faster load times, and enhanced SEO capabilities. Additionally, When there is some time left in the day I'm also working on enhancing my expertise in researching and automating trading strategies.
